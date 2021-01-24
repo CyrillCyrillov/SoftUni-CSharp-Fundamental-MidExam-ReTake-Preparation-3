@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation_Retake_3\Task03_Memory_game\obj\Debug\netcoreapp3.1\Task03_Memory_game.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation_Retake_3\Task03_Memory_game\obj\Debug\netcoreapp3.1\Task03_Memory_game.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation_Retake_3\Task03_Memory_game\obj\Debug\netcoreapp3.1\Task03_Memory_game.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation_Retake_3\Task03_Memory_game\obj\Debug\netcoreapp3.1\Task03_Memory_game.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation_Retake_3\Task03_Memory_game\bin\Debug\netcoreapp3.1\Task03_Memory_game.exe
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation_Retake_3\Task03_Memory_game\bin\Debug\netcoreapp3.1\Task03_Memory_game.deps.json
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation_Retake_3\Task03_Memory_game\bin\Debug\netcoreapp3.1\Task03_Memory_game.runtimeconfig.json
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation_Retake_3\Task03_Memory_game\bin\Debug\netcoreapp3.1\Task03_Memory_game.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation_Retake_3\Task03_Memory_game\bin\Debug\netcoreapp3.1\Task03_Memory_game.dll
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation_Retake_3\Task03_Memory_game\bin\Debug\netcoreapp3.1\Task03_Memory_game.pdb
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation_Retake_3\Task03_Memory_game\obj\Debug\netcoreapp3.1\Task03_Memory_game.dll
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation_Retake_3\Task03_Memory_game\obj\Debug\netcoreapp3.1\Task03_Memory_game.pdb
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation_Retake_3\Task03_Memory_game\obj\Debug\netcoreapp3.1\Task03_Memory_game.genruntimeconfig.cache
